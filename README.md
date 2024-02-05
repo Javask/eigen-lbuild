@@ -1,0 +1,1 @@
+Small wrapper for the eigen matrix library to integrate it with lbuild
